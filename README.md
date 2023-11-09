@@ -1,5 +1,11 @@
 # nvim-treesitter-context
 
+NOTE from Suchi: This is a fork of the original version just to temporarily
+support the markdown format. Usage: `'suchithsridhar/nvim-treesitter-context'`.
+
+Here is the issue in the original repository that talks about this:
+[issue](https://github.com/nvim-treesitter/nvim-treesitter-context/issues/289#issuecomment-1804043595)
+
 Lightweight alternative to [context.vim](https://github.com/wellle/context.vim)
 
 ## Requirements
