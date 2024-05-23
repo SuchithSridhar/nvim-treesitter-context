@@ -3,6 +3,10 @@
 NOTE from Suchi: This is a fork of the original version just to temporarily
 support the markdown format. Usage: `'suchithsridhar/nvim-treesitter-context'`.
 
+NOTE from Suchi (2024-05-23): This issue has been fixed in the original
+nvim-treesitter-context plugin and this repository is required. Hence, I will be
+archiving this repository.
+
 Here is the issue in the original repository that talks about this:
 [issue](https://github.com/nvim-treesitter/nvim-treesitter-context/issues/289#issuecomment-1804043595)
 
